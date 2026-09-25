@@ -1,0 +1,12 @@
+{
+  "base_url": "https://nhfqt2-t6.myshopify.com",
+  "paths": {
+    "ab-wheel": "/products/automatic-rebound-abdominal-wheel",
+    "curveboost": "/products/curveboost-fitness-leggings",
+    "rally-bands": "/products/yoga-fitness-rally",
+    "shake-cup": "/products/fitness-shake-cup",
+    "sliding-board": "/products/compact-pilates-sliding-board",
+    "waist-trainer": "/products/mens-sauna-body-shaper-waist-trainer-slimming-belt",
+    "yoga-set": "/products/13-piece-yoga-pilates-set"
+  }
+}
