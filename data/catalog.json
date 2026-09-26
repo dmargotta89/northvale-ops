@@ -1,0 +1,37 @@
+{
+  "ab-wheel": {
+    "title": "Automatic Rebound Ab Wheel",
+    "price": "29.99",
+    "compare_at_price": null
+  },
+  "curveboost": {
+    "title": "CurveBoost Fitness Leggings",
+    "price": "39.99",
+    "compare_at_price": null
+  },
+  "rally-bands": {
+    "title": "Yoga Fitness Rally",
+    "price": "28.99",
+    "compare_at_price": "31.40"
+  },
+  "shake-cup": {
+    "title": "Fitness Shake Cup",
+    "price": "19.99",
+    "compare_at_price": null
+  },
+  "sliding-board": {
+    "title": "Compact Pilates Sliding Board",
+    "price": "49.99",
+    "compare_at_price": null
+  },
+  "waist-trainer": {
+    "title": "Men's Sauna Body Shaper Waist Trainer",
+    "price": "24.99",
+    "compare_at_price": null
+  },
+  "yoga-set": {
+    "title": "13-Piece Yoga & Pilates Set",
+    "price": "39.99",
+    "compare_at_price": null
+  }
+}
